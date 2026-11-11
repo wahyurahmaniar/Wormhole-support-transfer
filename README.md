@@ -41,7 +41,6 @@ python fig2_transition.py
 python fig3_support.py
 python fig4_requirements.py     # uses capture_map.npy if present
 python eqcheck.py               # equation checks
-python graphical_abstract.py    # assets/graphical_abstract.png
 ```
 
 Every run of `transfer_model.py` ends with `70 checks, 0 failures` when the environment is correct. The figure scripts read `results_transfer.json`, so run the model first after any change to it.
