@@ -2,7 +2,7 @@
 
 ![Graphical abstract](assets/graphical_abstract.png)
 
-Code and data behind every number and figure of the manuscript of the same title (Wahyu Rahmaniar, Institute of Science Tokyo).
+Code and data behind every number and figure in the manuscript titled "Transfer of gravitational support between distinct quantum couplings in near-extremal traversable wormholes".
 
 A near-extremal magnetically charged black-hole pair is described in Jackiw-Teitelboim gravity. A transient opening coupling and a persistent holding coupling act on distinct sets of boundary channels. The code solves the boundary equations, computes the exact first-order null stress of each sector along crossing rays, checks it against the integrated null constraint, and bounds the support of one channel through stability and the null quantum energy inequality.
 
@@ -23,11 +23,10 @@ A near-extremal magnetically charged black-hole pair is described in Jackiw-Teit
 | `scripts/fig3_support.py` | Fig. 3: ray-integrated null energy by sector |
 | `scripts/fig4_requirements.py` | Fig. 4: capture region and channel requirements |
 | `scripts/eqcheck.py` | Symbolic and numerical checks of the manuscript equations |
-| `scripts/graphical_abstract.py` | The graphical abstract above |
 | `scripts/figstyle.py` | Shared figure style (STIX fonts, final printed size) |
 | `scripts/results_transfer.json` | Stored output of `transfer_model.py` |
 | `scripts/capture_map.npy` | Cached capture map for Fig. 4(a); delete it to recompute |
-| `assets/` | Graphical abstract |
+
 
 ## Reproduce
 
