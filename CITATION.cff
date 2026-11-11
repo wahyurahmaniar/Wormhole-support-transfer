@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it and the accompanying manuscript."
+title: "Transfer of gravitational support between distinct quantum couplings in near-extremal traversable wormholes: code and data"
+authors:
+  - family-names: Rahmaniar
+    given-names: Wahyu
+    affiliation: "Institute of Science Tokyo"
+    orcid: "https://orcid.org/0000-0002-6902-5455"
+version: "1.0.0"
+date-released: "2026-11-11"
+license: MIT
+keywords:
+  - traversable wormhole
+  - Jackiw-Teitelboim gravity
+  - near-extremal black hole
+  - null energy
+  - quantum energy inequality
